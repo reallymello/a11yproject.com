@@ -785,10 +785,10 @@
 			"url": "https://colorandcontrast.com/"
 		},
 		{
-			"title": "Color Contrast Checker",
-			"description": "This tool tests the contrast of a background color and foreground color for accessibility.",
-			"additional": "Josef Eines",
-			"url": "https://www.alarmsystem.no/color-contrast/"
+			"title": "WCAG Color Contrast Checker",
+			"description": "Checks foreground and background color contrast against WCAG 2.1 AA and AAA standards, with colorblindness simulation for four deficiency types, accessible color variant suggestions, and a markdown bug report for logging accessibility defects.",
+			"additional": "David Mello",
+			"url": "https://davidmello.com/tools/color-contrast-checker"
 		},
 		{
 			"title": "Colorblind Web Page Filter",
